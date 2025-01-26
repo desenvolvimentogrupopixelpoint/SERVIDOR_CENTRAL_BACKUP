@@ -1,0 +1,36 @@
+[
+    {
+        "nome": "0063amigao",
+        "endereco": "Bento Munhoz - Zona 10 - Maringa PR",
+        "status": "Ativo",
+        "dispositivos": [
+            {
+                "nome": "0063-amigao-caixa-1",
+                "endereco": "100.116.47.71",
+                "status": "Ativo"
+            },
+            {
+                "nome": "0063-amigao-caixa-2",
+                "endereco": "100.70.77.28",
+                "status": "Ativo"
+            }
+        ]
+    },
+    {
+        "nome": "Grupo Teste",
+        "endereco": "Pixel Point",
+        "status": "Ativo",
+        "dispositivos": [
+            {
+                "nome": "equipamento-teste-1",
+                "endereco": "100.113.120.17",
+                "status": "Ativo"
+            },
+            {
+                "nome": "equipamento-teste-2",
+                "endereco": "100.127.114.57",
+                "status": "Ativo"
+            }
+        ]
+    }
+]
